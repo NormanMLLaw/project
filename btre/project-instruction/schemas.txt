@@ -1,0 +1,19 @@
+#### LISTING
+id: INT
+realtor: INT (FOREIGN KEY [realtor])
+title: STR
+address: STR
+city: STR
+state: STR
+zipcode: STR
+decription: TEXT
+price: INT
+bedrooms: INT
+bathrooms: INT
+garage: INT
+sqft: INT
+lot_size: float
+
+
+
+
